@@ -1,1 +1,1 @@
-the seconf file in git and github learningg
+This second file is created because to learn the commands to see the connection and file transfer between VS code to github
